@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://gap-reinigung.ch/sitemap.xml
