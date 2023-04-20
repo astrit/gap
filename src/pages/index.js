@@ -23,16 +23,16 @@ export default function IndexPage() {
           <SEO title="GAP Reinigung GmbH" />
           <Banner />
           <Services />
-          <Jackpot />
+          {/* <Jackpot /> */}
           <CallToAction />
           {/* <Featured /> */}
           {/* <Pricing /> */}
-          <Testimonials />
-          <br />
-          <br />
+          {/* <Testimonials /> */}
+          {/* <br />
+          <br /> */}
           {/* <Blogs /> */}
-          <FAQ />
-          {/* <Subscribe /> */}
+          {/* <FAQ /> */}
+          <Subscribe />
         </Layout>
       </StickyProvider>
     </ThemeProvider>

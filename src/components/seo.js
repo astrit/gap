@@ -1,11 +1,11 @@
-import React from 'react';
-import Head from 'next/head';
+import React from "react";
+import Head from "next/head";
 
 export default function SEO({
-  description = 'startup landing descriptions',
-  author = 'RedQ, Inc',
+  description = "GAP Reinigung GmbH Birr",
+  author = "Gona",
   meta,
-  title = 'startup landing title',
+  title = "GAP Reinigung GmbH",
 }) {
   const metaData = [
     {
