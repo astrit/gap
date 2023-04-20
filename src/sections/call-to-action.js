@@ -44,6 +44,7 @@ const styles = {
   },
   flex: {
     flexWrap: "wrap",
+    flexDirection: ["column", null, null, null, "row"],
   },
   content: {
     flex: "1",
@@ -93,7 +94,7 @@ const styles = {
   },
   images: {
     flex: "1",
-    display: "flex",
+    display: ["none", null, null, null, "flex"],
     alignItems: "center",
     alignContent: "center",
     jusitfyContent: "center",

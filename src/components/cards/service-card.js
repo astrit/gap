@@ -32,6 +32,7 @@ const styles = {
     flexShrink: 0,
     width: "100px",
     height: "auto",
+    margin: ["0 auto", null, null, null],
   },
   content: {
     ml: ["0", null, null, "30px"],
